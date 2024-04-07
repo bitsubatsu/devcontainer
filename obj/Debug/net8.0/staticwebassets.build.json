@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+n28jYWkIA+Jf/Y5INqYUg26i6RfxKFulj4pSjzWUq0=",
+  "Source": "devcontainer",
+  "BasePath": "_content/devcontainer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
